@@ -1,1 +1,1 @@
-Repository for ML course
+Репозиторий для заданий Тренировок по ML 3.0
